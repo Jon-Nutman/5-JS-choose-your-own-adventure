@@ -37,7 +37,7 @@ else{
 }
 
 if(!!hasAdv){
-    var thirdCourse = confirm('Ice Cream')
+    var thirdCourse = confirm('Would you like Ice Cream?')
     if (thirdCourse){
         hasWon = true
         alert('Congrats on being a distinguished diner')
